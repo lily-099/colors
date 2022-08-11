@@ -1,4 +1,4 @@
-# counterapp
+# newui
 
 A new Flutter project.
 
