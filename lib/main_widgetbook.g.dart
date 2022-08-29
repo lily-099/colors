@@ -7,8 +7,7 @@
 
     import 'package:widgetbook/widgetbook.dart';
     import 'package:flutter/material.dart';
-    import 'package:counterapp/widgets/page_1/counter_value_text.g.dart';
-
+    
 
     void main() {
       runApp(const MyApp());
@@ -30,39 +29,7 @@
           categories: [
                   WidgetbookCategory(
         name: 'Parabeac-Generated',
-        folders: [
-      WidgetbookFolder(
-        name: 'page_1',
-        widgets: [
-      WidgetbookWidget(
-        name: 'CounterValueText',
-        useCases: [
-      WidgetbookUseCase(
-        name: 'CounterValueText',
-        builder: (context) => Center(child:       SizedBox(
-        height: 29.0,width: 136.0,
-        child: LayoutBuilder( 
-  builder: (context, constraints) {
-    return CounterValueText(
-constraints,
-)
-;
-}
-),
-      ),
-    ),
-      ),
-    
-],
-
-      )
-    
-],
-
-      ),
-    
-],
-
+        
         
       )
     ,

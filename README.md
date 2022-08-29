@@ -1,4 +1,4 @@
-# counterapp
+# trigger
 
 A new Flutter project.
 
