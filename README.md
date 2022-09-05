@@ -1,4 +1,4 @@
-# counterapp
+# colors
 
 A new Flutter project.
 
