@@ -1,6 +1,6 @@
 {
-    "name": "counterapp",
-    "short_name": "counterapp",
+    "name": "colors2",
+    "short_name": "colors2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
